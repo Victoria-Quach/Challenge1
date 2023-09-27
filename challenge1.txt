@@ -1,4 +1,4 @@
 Hello from Challenge 1
 Hello world, I'm ${Victoria Quach}
 Hello world, I'm here again
-A new Challenge
+Hello
